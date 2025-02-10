@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file://E%3A/facerate.co/frontend/pages/_app.js"],"sourcesContent":["// frontend/pages/_app.js\r\nimport '../styles/globals.css';\r\nimport { Poppins, Lato } from 'next/font/google';\r\n\r\nfunction MyApp({ Component, pageProps }) {\r\n  return <Component {...pageProps} />;\r\n}\r\n\r\nexport default MyApp;"],"names":[],"mappings":"AAAA,yBAAyB;;;;;;;AAIzB,SAAS,MAAM,EAAE,SAAS,EAAE,SAAS,EAAE;IACrC,qBAAO,qKAAC;QAAW,GAAG,SAAS;;;;;;AACjC;uCAEe"}},
+    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
